@@ -1,2 +1,2 @@
-# Spotify-Tableau-Dashboad
+# Spotify-Tableau-Dashbord
 
